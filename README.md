@@ -19,7 +19,7 @@ As things are progressing, the documentation will be updated accordingly.
 ## Index
 
 - [ ] [Hardware used](./doc/hardware.md)
-- [ ] [Install operating system](.doc/rhel-install.md)
+- [ ] [Install operating system](./doc/rhel-install.md)
 
 ## *"The Project"*
 
